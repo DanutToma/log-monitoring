@@ -20,7 +20,7 @@ A file named monitoring_report.txt with the same information
 Log File Format
 The expected log file format is CSV with the following columns:
 
-Timestamp (HH:MM)
+Timestamp (HH:MM:SS)
 Job description
 Status (START or END)
 Process ID (PID)
