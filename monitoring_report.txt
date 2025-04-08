@@ -1,0 +1,276 @@
+
+JOB MONITORING REPORT
+=====================
+Total jobs completed: 43
+
+JOB DETAILS:
+===========
+scheduled task 032 (PID: 37980):
+  Start: 11:35:23
+  End: 11:35:56
+  Duration: 0.55 minutes (33 seconds)
+  Status: OK
+
+scheduled task 796 (PID: 57672):
+  Start: 11:36:11
+  End: 11:36:18
+  Duration: 0.12 minutes (7 seconds)
+  Status: OK
+
+scheduled task 386 (PID: 10515):
+  Start: 11:38:33
+  End: 11:40:24
+  Duration: 1.85 minutes (111 seconds)
+  Status: OK
+
+scheduled task 188 (PID: 23118):
+  Start: 11:40:49
+  End: 11:41:28
+  Duration: 0.65 minutes (39 seconds)
+  Status: OK
+
+background job ulp (PID: 60134):
+  Start: 11:41:11
+  End: 11:41:55
+  Duration: 0.73 minutes (44 seconds)
+  Status: OK
+
+scheduled task 996 (PID: 90962):
+  Start: 11:40:51
+  End: 11:42:46
+  Duration: 1.92 minutes (115 seconds)
+  Status: OK
+
+background job dej (PID: 90812):
+  Start: 11:39:26
+  End: 11:43:32
+  Duration: 4.10 minutes (246 seconds)
+  Status: OK
+
+scheduled task 173 (PID: 75164):
+  Start: 11:45:47
+  End: 11:46:51
+  Duration: 1.07 minutes (64 seconds)
+  Status: OK
+
+background job djw (PID: 36709):
+  Start: 11:47:04
+  End: 11:47:54
+  Duration: 0.83 minutes (50 seconds)
+  Status: OK
+
+scheduled task 538 (PID: 26831):
+  Start: 11:46:04
+  End: 11:48:16
+  Duration: 2.20 minutes (132 seconds)
+  Status: OK
+
+scheduled task 946 (PID: 47139):
+  Start: 11:44:56
+  End: 11:48:22
+  Duration: 3.43 minutes (206 seconds)
+  Status: OK
+
+scheduled task 051 (PID: 39547):
+  Start: 11:37:53
+  End: 11:49:22
+  Duration: 11.48 minutes (689 seconds)
+  Status: ERROR
+
+scheduled task 515 (PID: 45135):
+  Start: 11:37:14
+  End: 11:49:37
+  Duration: 12.38 minutes (743 seconds)
+  Status: ERROR
+
+scheduled task 697 (PID: 32904):
+  Start: 11:49:12
+  End: 11:49:46
+  Duration: 0.57 minutes (34 seconds)
+  Status: OK
+
+scheduled task 074 (PID: 71766):
+  Start: 11:45:04
+  End: 11:50:51
+  Duration: 5.78 minutes (347 seconds)
+  Status: WARNING
+
+scheduled task 536 (PID: 24799):
+  Start: 11:51:21
+  End: 11:51:28
+  Duration: 0.12 minutes (7 seconds)
+  Status: OK
+
+background job wmy (PID: 81258):
+  Start: 11:36:58
+  End: 11:51:44
+  Duration: 14.77 minutes (886 seconds)
+  Status: ERROR
+
+scheduled task 626 (PID: 32674):
+  Start: 11:51:06
+  End: 11:52:32
+  Duration: 1.43 minutes (86 seconds)
+  Status: OK
+
+background job you (PID: 38579):
+  Start: 11:50:09
+  End: 11:53:42
+  Duration: 3.55 minutes (213 seconds)
+  Status: OK
+
+scheduled task 268 (PID: 87228):
+  Start: 11:44:25
+  End: 11:53:53
+  Duration: 9.47 minutes (568 seconds)
+  Status: WARNING
+
+scheduled task 811 (PID: 50295):
+  Start: 11:48:45
+  End: 11:55:20
+  Duration: 6.58 minutes (395 seconds)
+  Status: WARNING
+
+background job cmx (PID: 55722):
+  Start: 11:54:56
+  End: 11:55:43
+  Duration: 0.78 minutes (47 seconds)
+  Status: OK
+
+scheduled task 706 (PID: 33528):
+  Start: 11:52:47
+  End: 11:56:09
+  Duration: 3.37 minutes (202 seconds)
+  Status: OK
+
+scheduled task 294 (PID: 27222):
+  Start: 11:50:07
+  End: 11:56:15
+  Duration: 6.13 minutes (368 seconds)
+  Status: WARNING
+
+scheduled task 521 (PID: 64591):
+  Start: 11:57:05
+  End: 11:58:55
+  Duration: 1.83 minutes (110 seconds)
+  Status: OK
+
+scheduled task 080 (PID: 67833):
+  Start: 11:57:16
+  End: 12:00:51
+  Duration: 3.58 minutes (215 seconds)
+  Status: OK
+
+scheduled task 794 (PID: 87570):
+  Start: 11:53:57
+  End: 12:01:50
+  Duration: 7.88 minutes (473 seconds)
+  Status: WARNING
+
+background job sqm (PID: 99672):
+  Start: 11:57:08
+  End: 12:02:21
+  Duration: 5.22 minutes (313 seconds)
+  Status: WARNING
+
+scheduled task 678 (PID: 96183):
+  Start: 11:58:12
+  End: 12:02:26
+  Duration: 4.23 minutes (254 seconds)
+  Status: OK
+
+scheduled task 773 (PID: 16168):
+  Start: 12:02:39
+  End: 12:02:55
+  Duration: 0.27 minutes (16 seconds)
+  Status: OK
+
+scheduled task 920 (PID: 34189):
+  Start: 11:59:43
+  End: 12:03:02
+  Duration: 3.32 minutes (199 seconds)
+  Status: OK
+
+background job xfg (PID: 86716):
+  Start: 11:59:29
+  End: 12:05:03
+  Duration: 5.57 minutes (334 seconds)
+  Status: WARNING
+
+scheduled task 004 (PID: 22003):
+  Start: 11:55:29
+  End: 12:06:42
+  Duration: 11.22 minutes (673 seconds)
+  Status: ERROR
+
+scheduled task 064 (PID: 85742):
+  Start: 11:55:16
+  End: 12:07:33
+  Duration: 12.28 minutes (737 seconds)
+  Status: ERROR
+
+background job wiy (PID: 81470):
+  Start: 12:08:30
+  End: 12:09:33
+  Duration: 1.05 minutes (63 seconds)
+  Status: OK
+
+scheduled task 746 (PID: 98746):
+  Start: 12:04:18
+  End: 12:11:35
+  Duration: 7.28 minutes (437 seconds)
+  Status: WARNING
+
+scheduled task 460 (PID: 39860):
+  Start: 11:53:17
+  End: 12:13:09
+  Duration: 19.87 minutes (1192 seconds)
+  Status: ERROR
+
+background job tqc (PID: 52532):
+  Start: 12:00:03
+  End: 12:13:56
+  Duration: 13.88 minutes (833 seconds)
+  Status: ERROR
+
+scheduled task 531 (PID: 62922):
+  Start: 12:14:20
+  End: 12:15:09
+  Duration: 0.82 minutes (49 seconds)
+  Status: OK
+
+scheduled task 936 (PID: 62401):
+  Start: 12:05:59
+  End: 12:16:23
+  Duration: 10.40 minutes (624 seconds)
+  Status: ERROR
+
+scheduled task 374 (PID: 23703):
+  Start: 12:04:57
+  End: 12:18:23
+  Duration: 13.43 minutes (806 seconds)
+  Status: ERROR
+
+scheduled task 182 (PID: 70808):
+  Start: 11:44:43
+  End: 12:18:26
+  Duration: 33.72 minutes (2023 seconds)
+  Status: ERROR
+
+scheduled task 672 (PID: 24482):
+  Start: 12:10:38
+  End: 12:19:14
+  Duration: 8.60 minutes (516 seconds)
+  Status: WARNING
+
+
+INCOMPLETE JOBS:
+===============
+scheduled task 333 (PID: 72029)
+  Started at: 12:03:20
+  Status: INCOMPLETE - No END entry found
+
+scheduled task 016 (PID: 72897)
+  Started at: 12:12:27
+  Status: INCOMPLETE - No END entry found
+
